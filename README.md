@@ -5,9 +5,4 @@ GitHub sous le lien suivant: https://github.com/MickaelFonck/WeatherStation
 - 1 afficheur 4 digits
 - 1 carte arduino (Uno pour celle utilisée mais Nano ferait l'affaire surtout en terme de place)
 
-A venir :
-- prévoir un arrêt/marche du circuit
-- prévoir un affichage pour les piles utilisées
-- soudure sur plaque PCB 
-- dessiner sur logiciel Blender le packaging
-- impression 3D puis montage
+Packaging en bois (photos sous le lien : http://www.madeinfck.com/?p=103). La prochaine fois, impression en 3D...
